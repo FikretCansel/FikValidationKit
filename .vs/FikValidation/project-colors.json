@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "784f4c58-f6d0-4581-a981-b30f34787ac7": {
+      "ProjectGuid": "784f4c58-f6d0-4581-a981-b30f34787ac7",
+      "DisplayName": "FikValidation",
+      "ColorIndex": 0
+    },
+    "83c24acd-8b83-4daa-bd78-e9a94963bf39": {
+      "ProjectGuid": "83c24acd-8b83-4daa-bd78-e9a94963bf39",
+      "DisplayName": "TestFikValidationKit",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

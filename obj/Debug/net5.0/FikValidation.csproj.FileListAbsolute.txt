@@ -1,0 +1,16 @@
+C:\Users\fikret\source\repos\FikValidation\bin\Debug\net5.0\FikValidation.exe
+C:\Users\fikret\source\repos\FikValidation\bin\Debug\net5.0\FikValidation.deps.json
+C:\Users\fikret\source\repos\FikValidation\bin\Debug\net5.0\FikValidation.runtimeconfig.json
+C:\Users\fikret\source\repos\FikValidation\bin\Debug\net5.0\FikValidation.runtimeconfig.dev.json
+C:\Users\fikret\source\repos\FikValidation\bin\Debug\net5.0\FikValidation.dll
+C:\Users\fikret\source\repos\FikValidation\bin\Debug\net5.0\ref\FikValidation.dll
+C:\Users\fikret\source\repos\FikValidation\bin\Debug\net5.0\FikValidation.pdb
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\FikValidation.csproj.AssemblyReference.cache
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\FikValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\FikValidation.AssemblyInfoInputs.cache
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\FikValidation.AssemblyInfo.cs
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\FikValidation.csproj.CoreCompileInputs.cache
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\FikValidation.dll
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\ref\FikValidation.dll
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\FikValidation.pdb
+C:\Users\fikret\source\repos\FikValidation\obj\Debug\net5.0\FikValidation.genruntimeconfig.cache

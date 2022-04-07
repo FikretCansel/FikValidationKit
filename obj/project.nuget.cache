@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSRY3hH38hsxtRXuFgseRHSQ8Gj9NZUhny/7ScNJT4gV5grJhbK6Ey0WiYqrzHLDWW4bXfmkPMIVkaeb719Ouw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fikret\\source\\repos\\FikValidation\\FikValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fikret\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
