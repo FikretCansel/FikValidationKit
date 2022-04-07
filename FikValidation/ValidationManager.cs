@@ -35,8 +35,9 @@ namespace FikValidation.FikValidation
         }
         public FikEntity NotEmpty(string x)
         {
-            Console.WriteLine(nameof(x));
-            if (!x.Equals("") && x!=null)
+          
+  
+            if (x != null && !x.Equals(""))
             {
                 return new FikEntity(true);
             }

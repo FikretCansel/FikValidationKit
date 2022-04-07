@@ -15,7 +15,7 @@ namespace FikValidation
             
 
             var result=Validation.Validate(
-                items.NotEmpty(product.Name)
+                items.NotEmpty(null)
                 ,items.GraterThan(10, 5),items.IsEquals(product.Name,"Fikret"),
                 bussinessRule(), bussinessRule2());
 
